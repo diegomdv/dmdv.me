@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Konstruk Bendri"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Construction/development company of residential and commercial properties in Mexico."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "konstruk-bendri-logo.jpg"
@@ -16,7 +16,7 @@ image_preview = "konstruk-bendri-logo.jpg"
 tags = ["tourism"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://casacun.com/"
 
 # Does the project detail page use math formatting?
 math = false

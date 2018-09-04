@@ -310,6 +310,6 @@ enableGitInfo = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
-[Languages.es]
-  languageCode = "es-mx"
+#[Languages.es]
+#  languageCode = "es-mx"
 

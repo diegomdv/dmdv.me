@@ -23,4 +23,4 @@ weight = 5
 
 I help brands develop and execute successful eCommerce strategies.-
 
-### I want to help you, <a href="/post/getting-started/" class="btn btn-warning"><span style="font-size:1.5em">Contact me now!</span></a>
+### I want to help you, <a href="#contact" class="btn btn-warning"><span style="font-size:1.5em">Contact me now!</span></a>

@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Revenatium"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Tourism eCommerce Solutions. Booking Engine, Channel Manager, helping hotels sell more online."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "revenatium-logo.jpg"
@@ -16,7 +16,7 @@ image_preview = "revenatium-logo.jpg"
 tags = ["tourism"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.revenatium.com/"
 
 # Does the project detail page use math formatting?
 math = false

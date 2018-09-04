@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Price Travel"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "One of the top Online Travel Agencies in Mexico. Founder (2004)."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "price-travel-logo.png"
@@ -16,7 +16,7 @@ image_preview = "price-travel-logo.png"
 tags = ["tourism"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.pricetravel.com/"
 
 # Does the project detail page use math formatting?
 math = false

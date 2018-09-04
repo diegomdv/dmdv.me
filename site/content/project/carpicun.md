@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "CarpiCun"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Woodworking workshop in Cancun. Focused on residential and commercial services."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "carpicun-logo.png"
@@ -16,7 +16,7 @@ image_preview = "carpicun-logo.png"
 tags = ["other"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://www.carpicun.com/"
 
 # Does the project detail page use math formatting?
 math = false

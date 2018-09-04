@@ -21,4 +21,4 @@ weight = 5
 
 Ayudo a que tu marca desarrolle y ejecute estrategias de eCommerce exitosas.-
 
-### Quiero ayuarte, <a href="/post/getting-started/" class="btn btn-warning"><span style="font-size:1.5em">¡Contáctame ya!</span></a>
+### Quiero ayudarte, <a href="/post/getting-started/" class="btn btn-warning"><span style="font-size:1.5em">¡Contáctame ya!</span></a>
