@@ -16,7 +16,8 @@ image_preview = "konstruk-bendri-logo.jpg"
 tags = ["tourism"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://casacun.com/"
+#external_link = "https://casacun.com/"
+external_link = "#"
 
 # Does the project detail page use math formatting?
 math = false
