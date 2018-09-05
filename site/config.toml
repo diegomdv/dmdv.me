@@ -241,17 +241,17 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "https://instagram.com/diegomdv"
 
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/gcushen"
+#  [[params.social]]
+#    icon = "github"
+#    icon_pack = "fa"
+#    link = "//github.com/gcushen"
 
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+ # Link to a PDF of your resume/CV from the About widget.
+ # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+ # [[params.social]]
+ #   icon = "cv"
+ #   icon_pack = "ai"
+ #   link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
