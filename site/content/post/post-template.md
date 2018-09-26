@@ -31,7 +31,7 @@ summary = ""
 # caption = "Dark"
 
 # This goes in the body to show the gallery
-{{< gallery >}}
+# {{< gallery >}}
 
 
 +++
