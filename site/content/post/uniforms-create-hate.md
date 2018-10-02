@@ -37,6 +37,7 @@ summary = ""
 +++
 
 # Uniforms create hate
+
 The word comes from the Latin /unus/, one and /forma/, form.-
 
 In schools it was used as a way to create identity and cohesion and also to convey equality to the students regardless of their economic background, but not anymore.
