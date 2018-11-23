@@ -1,3 +1,22 @@
++++
+title = "Hotel eCommerce teams are lazy! But don’t blame them"
+
+date = 2018-11-22T00:00:00
+lastmod = 2018-11-22T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Diego M. Del Vecchio"]
+
+tags = [""]
+summary = ""
+
+[header]
+# image = "headers/getting-started.png"
+# caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+
+
++++
 # Hotel eCommerce teams are lazy! But don’t blame them
 If there is something consistent in every hotel I work with is how much time the eCommerce team devotes to OTAs compared to its own channels.-
 
