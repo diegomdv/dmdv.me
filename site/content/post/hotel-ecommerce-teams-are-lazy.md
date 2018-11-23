@@ -17,7 +17,6 @@ summary = ""
 
 
 +++
-# Hotel eCommerce teams are lazy! But don’t blame them
 If there is something consistent in every hotel I work with is how much time the eCommerce team devotes to OTAs compared to its own channels.-
 
 I tell them they are lazy, which makes them hate me... for a little while... but it also makes them think when I expose why I say that.-
@@ -47,7 +46,3 @@ Nowadays, if eCommerce is not a priority, the hotel is probably going to fail.-
 I always encourage hoteliers to have a top level position devoted 100% to eCommerce.-
 
 Is your hotel prioritizing your direct channels or is it working for OTAs?
-
-
-#DMDV Blog#
-#DMDV Blog/1-UnPublished#
