@@ -158,3 +158,8 @@
 
 - id: cookie_learn
   translation: Más información
+
+# Extras DDV
+
+- id: goals
+  translation: Mis objetivos

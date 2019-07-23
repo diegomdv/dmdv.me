@@ -3,7 +3,7 @@ title = "How I realized I was afraid of money"
 
 date = 2017-03-04T21:13:47-05:00
 lastmod = 2017-03-04T21:13:53-05:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Diego M. Del Vecchio"]
@@ -35,8 +35,6 @@ summary = ""
 
 
 +++
-
-#How I realized I was afraid of money
 
 I grew up around money being the source of all problems.-
 

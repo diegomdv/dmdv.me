@@ -1,0 +1,27 @@
+@import 'Mixins';
+
+.transition-bg{
+    @include position(fixed, '', '', 0, '');
+    @include size(100vw, 0vh);
+    background-color: #fff;
+    transition: .4s ease;
+    z-index: 999999;
+}
+
+::-webkit-scrollbar {
+    @include size(6px, 3px);
+}
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 1px grey; 
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(153, 153, 153); 
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(129, 129, 129); 
+}

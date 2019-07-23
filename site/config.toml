@@ -7,6 +7,7 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
+watch = true
 
 # Title of your site
 title = "Diego M. Del Vecchio"
@@ -271,10 +272,10 @@ enableGitInfo = false
 #  url = "#publications_selected"
 #  weight = 2
 
-#[[menu.main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"

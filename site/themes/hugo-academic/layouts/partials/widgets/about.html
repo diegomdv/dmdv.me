@@ -68,6 +68,17 @@
       </div>
       {{ end }}
 
+      {{ with $page.Params.goals }}
+      <div class="col-sm-5">
+        <h3>{{ i18n "goals" | markdownify }}</h3>
+        <ul class="ul-interests">
+          {{ range .goals }}
+          <li>{{ . | markdownify }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
       {{ with $page.Params.education }}
       <div class="col-sm-7">
         <h3>{{ i18n "education" | markdownify }}</h3>

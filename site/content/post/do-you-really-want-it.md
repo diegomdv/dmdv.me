@@ -35,7 +35,6 @@ summary = ""
 
 
 +++
-#Do you really want it?
 
 I grew up thinking everything good happens to someone else but me. I grew up thinking that if you were financially successful you have some dirty business going on. But I also grew up thinking the only way to reach your dreams was to work hard, and as my mom used to say: _“querer es poder”. A phrase that has many meanings, some of which are “if you really want it, you’ll have it” and/or “if you really want it you have power”.-
 

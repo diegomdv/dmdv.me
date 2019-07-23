@@ -1,0 +1,54 @@
+@import 'Mixins';
+
+.engine-modal{
+	@include position(fixed, 0, '', '', '');
+	@include displayAlign(center);
+	@include size(100vw, 100vh);
+    z-index: 200;
+	background-color: #5d5d5dc2;
+	transition: .1s ease;
+	opacity: 0;
+	pointer-events: none;
+}
+
+.engine-modal-active{
+	opacity: 1;
+	pointer-events: inherit;
+}
+
+.engine-entry{
+	padding-top: 0 !important;
+}
+
+.engine-entry-container {
+	@include size(400px, 200px);
+    background-color: #ececec;
+	overflow-y: scroll;
+}
+
+.engine-item{
+	@include displayAlign(hor);
+	@include font(14px, 300);
+    color: #3D405D;
+	padding: 7px 13px;
+	border-top: 1px solid #d0d1e0;
+	position: relative;
+}
+
+.engine-item:nth-child(1){
+	border-top: none;
+}
+
+.engine-item-url{
+	max-width: 215px;
+}
+
+.engine-item-delete{
+	@include position(absolute, '', 3px, '', '');
+    padding: 9px;
+	cursor: pointer;
+}
+
+.engine-item-name{
+	min-width: 115px;
+}
